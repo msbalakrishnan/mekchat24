@@ -13807,6 +13807,7 @@ header.smaller,
 .de-event-item .d-image img {
   width: 100%;
   position: relative;
+  height: 400px;
 }
 .de-event-item .d-date {
   position: absolute;
